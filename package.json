@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     
-    "start": "node server.js "
+    "start": "node app.js "
   },
   "dependencies": {
     "@types/passport": "^1.0.3",
